@@ -1,5 +1,5 @@
 import math
-def erosion(beta, mu, epsilon, tau, kappa, alpha, omega) :
+def matiere(beta, mu, epsilon, tau, kappa, alpha, omega) :
 
     #print("Merci de vous rapporter au document joint pour plus d'informations sur les paramètres")
     #beta = float(input("Pluviométrie annuelle (en mm)"))
@@ -51,9 +51,27 @@ def erosion(beta, mu, epsilon, tau, kappa, alpha, omega) :
     if omega >= 1 and omega < 3 : V = 1.4
     if omega >= 3 : V = 1.6
 
-    print(R, K, LS, C, P, V)
     ero = R*K*LS*C*P*V
     #print("Pour un hectare de littoral avec ces caractéristiques, chaque année, plus de ", math.floor(ero), " tonnes de sédiments se retrouvent dans l'océan")
     return ero
 
-print (erosion(600, 30, 5, "sable", "aucune", "aucune", 0.5))
+print (matiere(600, 30, 5, "sable", "aucune", "aucune", 0.5))
+
+def ligne(epsilon, sigma):
+
+  #epsilon = float(input("Inclinaison de la pente (en %)"))
+  #sigma = float(input("Élévation annuelle du niveau de la mer (en mm)"))
+  #sigma en 2020 : 3,6
+  #sigma en 2050 si faible émission de gaz à effet de serre : 5,3
+  #sigma en 2050 si forte émission de gaz à effet de serre : 10,1
+  #sigma en 2050 si forte émission de gaz à effet de serre et prise en compte de la fonte des glaces antarctiques : 49,4
+
+  # -> en cm/an
+
+  S = sigma/1000
+  beta = epsilon * 0.57
+  beta = math.radians(beta)
+
+  return S * 1.8748 / math.tan(beta) * 100
+
+print (ligne(5, 3.6))
