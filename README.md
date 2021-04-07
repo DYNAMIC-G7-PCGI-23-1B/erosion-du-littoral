@@ -3,10 +3,15 @@
 Github Pages : https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/
 
 
-Jeudi 1 Avril :
+### Jeudi 1 Avril :
 
-Aujourd'hui on a discuté de la représentation que nous allions adopter pour notre projet, 2 possibilités ont été trouvés :
+Discussion sur la représentation à adopter.
+2 possibilités trouvés :
 
-1/ Représenter les paramètres visuellement dans un bloc et le déplacement de la ligne de côte dans un autre.
+1/ Représenter les paramètres utilisateurs visuellement dans un bloc, afficher le résultat numérique du déplacement de matière à côté ou en dessous et représenter le déplacement de la ligne de côte résultant des paramètres choisis dans un autre bloc à droite. Utiliser des sliders pour les paramètres utilisateurs.
 
-2/ Représenter le tout dans un seul bloc en coupe.
+2/ Représenter les paramètres utilisateurs et le déplacement de la ligne de côte en résultant dans un seul et même bloc dynamique. Afficher à côté ou en dessous le résultat numérique du déplacement de matière. Utiliser des sliders pour les paramètres utilisateurs.
+
+### Mercredi 7 Avril : 
+
+Le meilleur choix semble être le bloc dynamique, à voir si cette solution n'est pas particulièrement difficile à mettre en place.
