@@ -129,6 +129,19 @@ S (Sea level rise) :
 θ <sub> R </sub> (Active profile average slope) :
 
 	ε * 0.571 * π / 180
+	
+**Fonction *dessin* (en python) (voir erosion.py)**
+
+La fonction *dessin* dessine une représentation graphique des paramètres choisis par l'utilisateur ainsi que le déplacement de la ligne de côte
+
+Paramètres utilisés :
+
+	β = pluviométrie annuelle (en mm)
+	ε = inclinaison de la pente (en %)
+	τ = type de sol (roche, galets, graviers, terre ou sable)
+	κ = couverture végétale (aucune, quasi nu, recouvert)
+	ɑ = constructions humaines (aucune, aménagements, protections)
+	Σ = élévation annuelle du niveau de la mer (en mm)
 
 ## Lien vers la page de blog : <a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/blog.html"> C'est ici ! </a>
 
