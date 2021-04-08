@@ -80,7 +80,7 @@ LS (length-slope factor) :
 
 C (vegetative cover factor) :
 
-![C](https://raw.githubusercontent.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/blob/0791ae5b0ab08ed9fb5ac4c6a1312455bd01589f/images/C.png)
+![C](https://github.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/blob/main/images/C.png?raw=true)
 
 P (erosion control practice factor) :
 
