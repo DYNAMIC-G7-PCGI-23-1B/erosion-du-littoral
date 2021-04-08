@@ -33,7 +33,7 @@ Nous entamons désormais, grâce aux informations que nous avons trouvé, la dis
 
 *S. Rey*
 ### Semaine 4 (du 5 avril)
-Au cours de cette séance, nous avons commencé le dessin des paramètres et du trait de côte sur Turtle et avons essayé de faire une représentation graphique par une courbe afin de montrer l’influence des paramètres sur le résultat de la fonction « matière ».
+Au cours de cette séance, nous avons commencé le dessin des paramètres et du trait de côte sur Turtle et avons essayé de faire une représentation graphique par une courbe afin de montrer l’influence des paramètres sur le résultat de la fonction « matière ». <br>
 Samuel a réussi à réaliser quelques dessins sur Turtle.
 
 Nous avons également commencé à créer un site web dédié sur GitHub.
