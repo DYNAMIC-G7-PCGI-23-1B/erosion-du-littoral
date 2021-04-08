@@ -6,4 +6,4 @@
 ### Semaine 4 (du 5 avril)
 ### Semaine 5 (du 12 avril)
 
-<a href="index.html"> Retour à la page principale </a>
+<a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/index.html"> Retour à la page principale </a>
