@@ -49,6 +49,6 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 ## Bibliographie :
 
-! [Mots-clés de recherche](https://github.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/blob/945a653a60059a4bbeb1945d39e629d5beb7d3ee/images/mind_map.png)
+! [Mots-clés de recherche](https://raw.githubusercontent.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/945a653a60059a4bbeb1945d39e629d5beb7d3ee/images/mind_map.png)
 
 Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
