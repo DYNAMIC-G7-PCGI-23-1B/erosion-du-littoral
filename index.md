@@ -43,7 +43,59 @@ We evaluate this by taking into account two quantities: the displacement of the 
 
 ## Présentation structurée des résultats
 
-Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
+**Fonction *matiere* (en python) (voir erosion.py)**
+
+La fonction *matiere* calcule la quantité de matière déplacée d'un littoral en fonction de nombreux paramètres. Elle renvoie un résultat en t/ha/an
+
+Paramètres utilisés :
+
+	β = pluviométrie annuelle (en mm)
+	μ = longueur de la pente (en m)
+	ε = inclinaison de la pente (en %)
+	τ = type de sol (roche, galets, graviers, terre ou sable)
+	κ = couverture végétale (aucune, quasi nu, recouvert)
+	ɑ = constructions humaines (aucune, aménagements, protections)
+	Ω = hauteur moyenne annuelle des vagues (en m)
+
+Formule de base :
+
+  RUSLE (Revised Universal Soil Loss Equation)
+
+	  R*K*LS*C*P (en t/ha/a)
+    
+R (rainfall-runoff erosivity factor) :
+	
+  0.04830 * β1,61
+
+K (soil erodibility factor) :
+
+![K](
+
+LS (length-slope factor) :
+
+![LS](
+
+C (vegetative cover factor) :
+
+![C](
+
+P (erosion control practice factor) :
+
+![P](
+
+Ajout de l'impact des vagues en fonction de la hauteur annuelle moyenne de celles-ci :
+
+![Waves](
+
+Remarque :
+
+Les tableaux de valeurs de K, C, P et du facteur vagues sont purement théoriques et supposés.
+
+En réalité, les valeurs de ces facteurs ne peuvent être universelles et sont usuellement issues de mesures précises en fonction de l’objet géologique étudié.
+
+De nombreux autres paramètres entrent en compte pour K, C, P et le facteur vagues comme la rugosité du terrain, la profondeur, la densité du sol et bien d’autres.
+
+On peut s’en passer pour comprendre l’origine générale de l’érosion et l’appliquer à un système informatique.
 
 ## Lien vers la page de blog : <a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/blog.html"> C'est ici ! </a>
 
@@ -51,6 +103,6 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 ## Bibliographie :
 
-![Mots-clés de recherche](https://raw.githubusercontent.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/945a653a60059a4bbeb1945d39e629d5beb7d3ee/images/mind_map.png)
+![Mind map](https://raw.githubusercontent.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/945a653a60059a4bbeb1945d39e629d5beb7d3ee/images/mind_map.png)
 
 Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
