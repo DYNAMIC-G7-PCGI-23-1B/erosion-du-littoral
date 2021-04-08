@@ -1,15 +1,35 @@
 ## Travail effectué 
 
 ### Semaine 1 (du 15 mars)
+Notre sujet est fixé : nous partons sur l'érosion du littoral !
+
+Nous allons représenter l'impact de l'érosion du littoral sur une plage en fonction de différents paramètres.
+
+Nous avons défini scientifiquement (Problématique, hypothèse, objectif et critères d'évaluation) notre sujet et l'avons présenter au groupe aujourd'hui.
+
+Nous devons pour la semaine prochaine commencer à rédiger notre compte rendu bibliographique.
+
+C'est pour cela que nous nous attelons à la recherche documentaire dès maintenant.
+
+*S. Rey*
 ### Semaine 2 (du 22 mars)
+Nous avons bien avancé dans notre carnet de bord.
+
+Nous avons trouvé de nombreux documents sur le catalogue de la bibliothèque de l'université, sur google, wikipedia ou encore researchgate pouvant nous apporter de précieux renseignements sur notre sujet et comment nous allons pouvoir le modéliser.
+
+Nous avons indiqué les références des documents les plus utiles dans le carnet de bord.
+*S. Rey*
 ### Semaine 3 (du 29 mars)
-Discussion sur la représentation à adopter.
+Nous avons rendu notre carnet de bord.
 
-2 possibilités ont été trouvées :
+Nous entamons désormais, grâce aux informations que nous avons trouvé, la discussion sur la représentation graphique à produire.
 
-1/ Représenter les paramètres utilisateurs visuellement dans un bloc, afficher le résultat numérique du déplacement de matière à côté ou en dessous et représenter le déplacement de la ligne de côte résultant des paramètres choisis dans un autre bloc à droite. Utiliser des sliders pour les paramètres utilisateurs.
+2 possibilités ont pour l'instant été trouvées :
 
-2/ Représenter les paramètres utilisateurs et le déplacement de la ligne de côte en résultant dans un seul et même bloc dynamique. Afficher à côté ou en dessous le résultat numérique du déplacement de matière. Utiliser des sliders pour les paramètres utilisateurs.
+1/ Représenter visuellement les paramètres choisis par l'utilisateur dans un bloc (angle de la pente, végétation, etc...). Afficher le résultat numérique du déplacement de matière à côté ou en dessous et représenter le déplacement de la ligne de côte résultant des paramètres choisis dans un autre bloc à droite. Utiliser des sliders pour les paramètres utilisateurs.
+
+2/ Représenter les paramètres utilisateurs et le déplacement de la ligne de côte en résultant dans un seul et même bloc. Afficher à côté ou en dessous le résultat numérique du déplacement de matière. Utiliser des sliders pour les paramètres utilisateurs.
+*S. Rey*
 ### Semaine 4 (du 5 avril)
 ### Semaine 5 (du 12 avril)
 
