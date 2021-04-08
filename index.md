@@ -45,7 +45,9 @@ We evaluate this by taking into account two quantities: the displacement of the 
 
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
 
-## Lien vers page de blog : <a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/blog.html"> C'est ici ! </a>
+## Lien vers la page de blog : <a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/blog.html"> C'est ici ! </a>
+
+## Lien vers la page de résultats : <a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/results.html"> C'est là ! </a>
 
 ## Bibliographie :
 
