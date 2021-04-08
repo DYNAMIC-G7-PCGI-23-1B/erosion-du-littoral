@@ -26,7 +26,7 @@ We evaluate this by taking into account two quantities: the displacement of the 
 
 ## Présentation de l'équipe
 
-|¯\_(ツ)_/¯|( ͡° ͜ʖ ͡°)|ಠ_ಠ|ʕ•ᴥ•ʔ|
+|(ᵔᴥᵔ)|( ͡° ͜ʖ ͡°)|ಠ_ಠ|ʕ•ᴥ•ʔ|
 |--|--|--|--|
 | S. Rey | A. Shindala | M. Khalfaoui | H. Rami |
 
