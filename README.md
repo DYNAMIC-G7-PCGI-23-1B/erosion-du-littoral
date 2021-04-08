@@ -16,4 +16,4 @@ Discussion sur la représentation à adopter.
 
 Le meilleur choix semble être le bloc dynamique, à voir si cette solution n'est pas particulièrement difficile à mettre en place.
 
-<a href="site.html"> Voici le lie </a>
+<a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/site.html"> Voici le lie </a>
