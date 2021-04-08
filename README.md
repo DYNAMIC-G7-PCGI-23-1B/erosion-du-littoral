@@ -15,3 +15,5 @@ Discussion sur la représentation à adopter.
 ### Mercredi 7 Avril : 
 
 Le meilleur choix semble être le bloc dynamique, à voir si cette solution n'est pas particulièrement difficile à mettre en place.
+
+<a href="site.html"> Voici le lie </a>
