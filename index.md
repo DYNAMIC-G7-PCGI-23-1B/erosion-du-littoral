@@ -69,26 +69,26 @@ R (rainfall-runoff erosivity factor) :
 
 K (soil erodibility factor) :
 
-![K](https://github.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/blob/0791ae5b0ab08ed9fb5ac4c6a1312455bd01589f/images/K.png)
+![K](https://raw.githubusercontent.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/blob/0791ae5b0ab08ed9fb5ac4c6a1312455bd01589f/images/K.png)
 
 LS (length-slope factor) :
 
 	(μ/22.1) <sup>m</sup> * (65.41sin <sup>2</sup> θ + 4.56sinθ + 0.065)
 	θ (°) = ε * 0.571
 
-![m](https://github.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/blob/0791ae5b0ab08ed9fb5ac4c6a1312455bd01589f/images/m.png)
+![m](https://raw.githubusercontent.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/blob/0791ae5b0ab08ed9fb5ac4c6a1312455bd01589f/images/m.png)
 
 C (vegetative cover factor) :
 
-![C](https://github.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/blob/0791ae5b0ab08ed9fb5ac4c6a1312455bd01589f/images/C.png)
+![C](https://raw.githubusercontent.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/blob/0791ae5b0ab08ed9fb5ac4c6a1312455bd01589f/images/C.png)
 
 P (erosion control practice factor) :
 
-![P](https://github.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/blob/0791ae5b0ab08ed9fb5ac4c6a1312455bd01589f/images/P.png)
+![P](https://raw.githubusercontent.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/blob/0791ae5b0ab08ed9fb5ac4c6a1312455bd01589f/images/P.png)
 
 Ajout de l'impact des vagues en fonction de la hauteur annuelle moyenne de celles-ci :
 
-![waves](https://github.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/blob/0791ae5b0ab08ed9fb5ac4c6a1312455bd01589f/images/waves.png)
+![waves](https://raw.githubusercontent.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/blob/0791ae5b0ab08ed9fb5ac4c6a1312455bd01589f/images/waves.png)
 
 Remarque :
 
