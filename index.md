@@ -65,7 +65,7 @@ Formule de base :
     
 R (rainfall-runoff erosivity factor) :
 	
-0.04830 * β <sup> 1,61 </sup>
+0.04830 * β <sup>1,61</sup>
 
 K (soil erodibility factor) :
 
@@ -73,7 +73,7 @@ K (soil erodibility factor) :
 
 LS (length-slope factor) :
 
-(μ/22.1) <sup> m </sup> * (65.41sin <sup> 2 </sup> θ + 4.56sinθ + 0.065)
+(μ/22.1) <sup>m</sup> * (65.41sin <sup>2</sup> θ + 4.56sinθ + 0.065)
 	
 θ (°) = ε * 0.571
 
