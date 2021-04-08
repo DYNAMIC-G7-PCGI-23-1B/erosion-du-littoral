@@ -26,20 +26,20 @@ We evaluate this by taking into account two quantities: the displacement of the 
 
 ## Présentation de l'équipe
 
-|(´・ω・｀)|( ͡° ͜ʖ ͡°)|ಠ_ಠ|ᕕ( ᐛ )ᕗ|
-|-----|--|--|--|
-| S. Rey | A. Shindala | M. Khalfaoui | R. Hayat |
+|¯\_(ツ)_/¯|( ͡° ͜ʖ ͡°)|ಠ_ಠ|ʕ•ᴥ•ʔ|
+|--|--|--|--|
+| S. Rey | A. Shindala | M. Khalfaoui | H. Rami |
 
 
 ## Description synthétique du projet
 
-**Problématique : Certains littoraux peuvent-ils disposer de caractéristiques particulières capables de réduire grandement l'impact de l'érosion naturelle ?** 
+**Problématique :** Certains littoraux peuvent-ils disposer de caractéristiques particulières capables de réduire grandement l'impact de l'érosion naturelle ? 
 
-**Hypothèse principale : Des littoraux, formant un certain angle avec la mer et composés d'une certaine façon résistent mieux à l'érosion qu'une plage classique.**
+**Hypothèse principale :** Des littoraux, formant un certain angle avec la mer et composés d'une certaine façon résistent mieux à l'érosion qu'une plage classique.
 
-**Objectifs : Déterminer quels littoraux sont les plus résistants au temps et mettre en lumière les plus vulnérables afin de les protéger efficacement.**
+**Objectifs :** Déterminer quels littoraux sont les plus résistants au temps et mettre en lumière les plus vulnérables afin de les protéger efficacement.
 
-**Critère(s) d'évaluation : Evaluer le recul de la ligne de côte ainsi que la quantité de matière littorale déplacée par l'érosion naturelle.**
+**Critère(s) d'évaluation :** Evaluer le recul de la ligne de côte ainsi que la quantité de matière littorale déplacée par l'érosion naturelle.
 
 ## Présentation structurée des résultats
 
