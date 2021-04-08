@@ -1,7 +1,6 @@
 # erosion-du-littoral
 
-Github Pages : https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/
-
+<a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/index.html"> Page d'accueil
 
 ### Jeudi 1 Avril :
 
@@ -15,5 +14,3 @@ Discussion sur la représentation à adopter.
 ### Mercredi 7 Avril : 
 
 Le meilleur choix semble être le bloc dynamique, à voir si cette solution n'est pas particulièrement difficile à mettre en place.
-
-<a href="site.html"> Voici le lien </a>
