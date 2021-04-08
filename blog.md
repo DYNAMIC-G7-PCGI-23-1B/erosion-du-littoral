@@ -18,6 +18,7 @@ Nous avons bien avancé dans notre carnet de bord.
 Nous avons trouvé de nombreux documents sur le catalogue de la bibliothèque de l'université, sur google, wikipedia ou encore researchgate pouvant nous apporter de précieux renseignements sur notre sujet et comment nous allons pouvoir le modéliser.
 
 Nous avons indiqué les références des documents les plus utiles dans le carnet de bord.
+
 *S. Rey*
 ### Semaine 3 (du 29 mars)
 Nous avons rendu notre carnet de bord.
@@ -29,6 +30,7 @@ Nous entamons désormais, grâce aux informations que nous avons trouvé, la dis
 1/ Représenter visuellement les paramètres choisis par l'utilisateur dans un bloc (angle de la pente, végétation, etc...). Afficher le résultat numérique du déplacement de matière à côté ou en dessous et représenter le déplacement de la ligne de côte résultant des paramètres choisis dans un autre bloc à droite. Utiliser des sliders pour les paramètres utilisateurs.
 
 2/ Représenter les paramètres utilisateurs et le déplacement de la ligne de côte en résultant dans un seul et même bloc. Afficher à côté ou en dessous le résultat numérique du déplacement de matière. Utiliser des sliders pour les paramètres utilisateurs.
+
 *S. Rey*
 ### Semaine 4 (du 5 avril)
 ### Semaine 5 (du 12 avril)
