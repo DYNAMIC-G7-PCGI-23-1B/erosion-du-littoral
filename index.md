@@ -61,11 +61,11 @@ Formule de base :
 
   RUSLE (Revised Universal Soil Loss Equation)
 
-	  R*K*LS*C*P (en t/ha/a)
+	R*K*LS*C*P (en t/ha/a)
     
 R (rainfall-runoff erosivity factor) :
 	
-  0.04830 * β1,61
+ 	0.04830 * β<sup>1,61</sup>
 
 K (soil erodibility factor) :
 
