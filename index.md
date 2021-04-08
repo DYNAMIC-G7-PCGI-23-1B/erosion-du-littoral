@@ -1,4 +1,4 @@
-# Erosion du littoral
+# Erosion du littoral : Page d'accueil
 
 Le littoral océanique est un environnement fragile qu’il incombe aux institutions de protéger.
 Les côtes, de toute la planète, sont sujettes à l’érosion naturelle.
