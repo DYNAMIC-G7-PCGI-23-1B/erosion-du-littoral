@@ -33,6 +33,16 @@ Nous entamons désormais, grâce aux informations que nous avons trouvé, la dis
 
 *S. Rey*
 ### Semaine 4 (du 5 avril)
+Au cours de cette séance, nous avons commencé le dessin des paramètres et du trait de côte sur Turtle et avons essayé de faire une représentation graphique par une courbe afin de montrer l’influence des paramètres sur le résultat de la fonction « matière ».
+Samuel a réussi à réaliser quelques dessins sur Turtle.
+
+Nous avons également commencé à créer un site web dédié sur GitHub.
+
+Nous essayerons d’avancer sur ces travaux durant les prochains jours.
+
+Note : Malek K. et Hayat R. n’étaient pas présents pendant ceete séance.
+
+*Ahmed S.*
 ### Semaine 5 (du 12 avril)
 
 <a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/index.html"> Retour à la page principale </a>
