@@ -1,4 +1,4 @@
-## Travail effectué 
+## Erosion du littoral : Blog (Travail effectué)
 
 ### Semaine 1 (du 15 mars)
 Notre sujet est fixé : nous partons sur l'érosion du littoral !
