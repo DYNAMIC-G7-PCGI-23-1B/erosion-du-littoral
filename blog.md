@@ -40,7 +40,7 @@ Nous avons également commencé à créer un site web dédié sur GitHub.
 
 Nous essayerons d’avancer sur ces travaux durant les prochains jours.
 
-Note : Malek K. et Hayat R. n’étaient pas présents pendant ceete séance.
+Note : Malek K. et Hayat R. n’étaient pas présents pendant cette séance.
 
 *Ahmed S.*
 ### Semaine 5 (du 12 avril)
