@@ -53,7 +53,7 @@ Paramètres utilisés :
 	μ = longueur de la pente (en m)
 	ε = inclinaison de la pente (en %)
 	τ = type de sol (roche, galets, graviers, terre ou sable)
-	κ = couverture végétale (aucune, quasi nu, recouvert)
+	κ = couverture végétale (aucune, partielle, totale)
 	ɑ = constructions humaines (aucune, aménagements, protections)
 	Ω = hauteur moyenne annuelle des vagues (en m)
 
@@ -139,7 +139,7 @@ Paramètres utilisés :
 	β = pluviométrie annuelle (en mm)
 	ε = inclinaison de la pente (en %)
 	τ = type de sol (roche, galets, graviers, terre ou sable)
-	κ = couverture végétale (aucune, quasi nu, recouvert)
+	κ = couverture végétale (aucune, partielle, totale)
 	ɑ = constructions humaines (aucune, aménagements, protections)
 	Σ = élévation annuelle du niveau de la mer (en mm)
 
