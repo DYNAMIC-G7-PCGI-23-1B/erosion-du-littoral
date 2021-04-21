@@ -41,5 +41,9 @@ Nous essayerons d’avancer sur ces travaux durant les prochains jours.
 
 *A. Shindala*
 ### Semaine 5 (du 12 avril)
+Nous avons integré au programme erosion.py 4 fonctions permettant de tracer des courbes représentatives des variations des fonctions *matiere* et *ligne* grâce à la bibliothèque matplotlib.
+La fonction dessin a également intégré un programme à part entière se nommant dessin.py où son exécution n'est pas entravé par la trace des courbes.
+
+*S. Rey*
 
 <a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/index.html"> Retour à la page principale </a>
