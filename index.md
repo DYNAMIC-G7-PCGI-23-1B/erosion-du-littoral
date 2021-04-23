@@ -200,3 +200,33 @@ Paramètres utilisés :
 *Quel est le niveau de spécialisation du document ?*
 
 	Document hautement spécialisé.
+
+### Zoom sur le document [5]
+
+*Référence bibliographique du document :*
+
+	BENASSAI Guido, 2006, Introduction to Coastal Dynamics and Shoreline Protection. WIT Press
+	
+*Qui sont les auteurs du documents ? :*
+
+	-BENASSAI Guido : Professeur en dynamique côtière et protection du littoral à l’Université de Naples
+
+*Par quelle structure ce document a-t-il été publié ?*
+
+	Livre publié via la maison d’éditions WIT Press (recherches en sciences et ingénierie)
+
+*Les auteurs citent-ils leurs sources ?*
+
+	Citation des sources avec présence d’une bibliographie.
+
+*Quand le document a-t-il été publié ? L’information est-elle datée pour le sujet ?*
+
+	Publication en 2006, par conséquent document moyennement à jour.
+
+*Quel est l’objectif de ce document ?*
+
+	Document éducatif portant sur la dynamique côtière et la protection du littoral.
+
+*Quel est le niveau de spécialisation du document ?*
+
+	Document spécialisé.
