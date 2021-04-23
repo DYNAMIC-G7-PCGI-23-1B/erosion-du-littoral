@@ -166,3 +166,37 @@ Paramètres utilisés :
 *Researchgate :*
 
 [5] BENASSAI Guido, 2006, Introduction to Coastal Dynamics and Shoreline Protection. WIT Press
+
+### Zoom sur le document [2]
+
+*Référence bibliographique du document :*
+
+	HEDOU François, ROCHE Amélie, TRMAL Céline, MORAUD Sabine, DENIAUD Yann, 2018, Elaboration de l’indicateur national de l’érosion côtière. Paralia
+
+*Qui sont les auteurs du documents ? :*
+
+	-HEDOU François : Responsable d’études au CEREMA (direction eau, mer et fleuves)
+	-ROCHE Amélie : Chargée d’études au CEREMA (direction eau, mer et fleuves)
+	-TRMAL Céline : Chargée d’études au CEREMA (direction Méditerranée)
+	-MORAUD Sabine : Adjointe au chef du bureau des espaces maritimes et littoraux au Ministère de la Transition Écologique et Solidaire
+	-DENIAUD Yann : Responsable d’études au CEREMA (direction eau, mer et fleuves)
+
+*Par quelle structure ce document a-t-il été publié ?*
+
+	Document de conférence publié via la maison d’éditions Paralia (documents scientifiques portant sur l’étude du littoral)
+
+*Les auteurs citent-ils leurs sources ?*
+
+	Citation des sources avec présence d’une bibliographie.
+
+*Quand le document a-t-il été publié ? L’information est-elle datée pour le sujet ?*
+
+	Publication en 2018, par conséquent document à jour.
+
+*Quel est l’objectif de ce document ?*
+
+	Document informatif produisant un indicateur national de l’érosion côtière.
+
+*Quel est le niveau de spécialisation du document ?*
+
+	Document hautement spécialisé.
