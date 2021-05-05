@@ -145,10 +145,6 @@ Paramètres utilisés :
 	ɑ = constructions humaines (aucune, aménagements, protections)
 	Σ = élévation annuelle du niveau de la mer (en mm)
 
-## Lien vers la page de blog : <a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/blog.html"> C'est ici ! </a>
-
-## Lien vers la page de résultats : <a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/results.html"> C'est là ! </a>
-
 ## Bibliographie :
 
 ![Mind map](https://raw.githubusercontent.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/main/images/mind_map.png)
