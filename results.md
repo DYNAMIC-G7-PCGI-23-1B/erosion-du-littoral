@@ -1,5 +1,7 @@
 # Erosion du littoral : Résulats
 
+<a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/index.html"> Page d'accueil </a> <a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/blog.html"> Blog </a> **Résultats**
+
 **Représentation graphique des paramètres et du recul du trait de côte**
 Vous trouverez ici des captures d'écrans de la représentation graphique des paramètres et du recul du trait de côte
 
@@ -102,5 +104,3 @@ Constructions humaines : aucune
 Hauteur moyenne annuelle des vagues : 50 cm
 
 ![matiere-pente](https://raw.githubusercontent.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/main/images/matiere-pente.png)
-
-<a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/index.html"> Retour à la page principale </a>
