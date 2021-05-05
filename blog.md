@@ -1,5 +1,7 @@
 ## Erosion du littoral : Blog (Travail effectué)
 
+<a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/index.html"> Page d'accueil </a> **Blog** <a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/results.html"> Résultats </a>
+
 ### Semaine 1 (du 15 mars)
 Notre sujet est fixé : nous partons sur l'érosion du littoral !
 
@@ -46,5 +48,3 @@ Nous avons integré au programme erosion.py 4 fonctions permettant de tracer des
 La fonction dessin a également intégré un programme à part entière se nommant dessin.py où son exécution n'est pas entravé par la trace des courbes.
 
 *S. Rey*
-
-<a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/index.html"> Retour à la page principale </a>
