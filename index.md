@@ -1,5 +1,7 @@
 # Erosion du littoral : Page d'accueil
 
+**Page d'accueil** <a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/blog.html"> Blog </a> <a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/results.html"> Résultats </a>
+
 Le littoral océanique est un environnement fragile qu’il incombe aux institutions de protéger.
 Les côtes, de toute la planète, sont sujettes à l’érosion naturelle.
 En effet, les vagues, la pluie tout comme l’activité humaine sont de nombreux facteurs qui influent sur la surface littorale.
