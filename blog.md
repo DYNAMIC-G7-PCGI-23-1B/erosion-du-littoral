@@ -7,7 +7,7 @@ Notre sujet est fixé : nous partons sur l'érosion du littoral !
 
 Nous allons représenter l'impact de l'érosion du littoral sur une plage en fonction de différents paramètres.
 
-Nous avons défini scientifiquement (Problématique, hypothèse, objectif et critères d'évaluation) notre sujet et l'avons présenter au groupe aujourd'hui.
+Nous avons défini scientifiquement (Problématique, hypothèse, objectif et critères d'évaluation) notre sujet et l'avons présenté au groupe aujourd'hui.
 
 Nous devons pour la semaine prochaine commencer à rédiger notre compte rendu bibliographique.
 
