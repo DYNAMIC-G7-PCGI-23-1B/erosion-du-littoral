@@ -3,6 +3,7 @@
 <a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/index.html"> Page d'accueil </a> <a href="https://dynamic-g7-pcgi-23-1b.github.io/erosion-du-littoral/blog.html"> Blog </a> **Résultats**
 
 **Représentation graphique des paramètres et du recul du trait de côte**
+
 Vous trouverez ici des captures d'écrans de la représentation graphique des paramètres et du recul du trait de côte
 
 
@@ -50,6 +51,8 @@ Constructions humaines : protections
 
 ![2000-12-4p4](https://raw.githubusercontent.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/main/images/2000-12-4p4.png)
 
+&nbsp;
+
 **Animation représentant le recul du trait de côte sur une plage avec les paramètres suivants :**
 
 Pluviométrie annuelle : 600 mm  
@@ -66,9 +69,11 @@ La maison est située à 20 m de la mer initialement.
 
 ![anim](https://raw.githubusercontent.com/DYNAMIC-G7-PCGI-23-1B/erosion-du-littoral/main/images/anim.gif)
 
-**Courbes représentant la quantité de matière déplacée ou le recul du trait de côte par l'érosion ou l'élévation du niveau de la mer en fonction de l'altération des paramètres**
-Vous trouverez ici des captures d'écrans des courbes représentant la quantité de matière déplacée ou l'élévation du niveau de la mer en fonction de l'altération des paramètres.
+&nbsp;
 
+**Courbes représentant la quantité de matière déplacée ou le recul du trait de côte par l'érosion ou l'élévation du niveau de la mer en fonction de l'altération des paramètres**
+
+Vous trouverez ici des captures d'écrans des courbes représentant la quantité de matière déplacée ou l'élévation du niveau de la mer en fonction de l'altération des paramètres.
 
 ***Littoral avec les paramètres suivants :***
 
